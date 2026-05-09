@@ -14,13 +14,13 @@
 
 ### 🎨 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,figma,jquery,materialui,vite,vitest)](https://skillicons.dev)
 
 ### 📱 Mobile & Backend
 
 > 
 
-[![Backend](https://skillicons.dev/icons?i=react,aspnet,php,laravel,mysql,SQL,dotnet,cs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=react,dotnet,php,laravel,mysql,SQL,cs)](https://skillicons.dev)
 
 ### 🛠 Herramientas & AI
 
