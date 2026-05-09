@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:023e8a&height=200&section=header&text=Frontend%20Developer&fontSize=50&fontAlignY=40&desc=React%20%C2%B7%20TypeScript%20%C2%B7%20Photography&descAlignY=60&fontColor=ffffff" width="100%" />
 
-# Hi, I'm **[Josue Ortega]** 👋
+# Hi, I'm **Josue Ortega** 👋
 
 ### Frontend Developer · Fotógrafo · Creador Visual
 
@@ -18,9 +18,9 @@
 
 ### 📱 Mobile & Backend
 
-> React Native &nbsp;·&nbsp; ASP.NET C# &nbsp;·&nbsp; Laravel PHP &nbsp;·&nbsp; MySQL
+> 
 
-[![Backend](https://skillicons.dev/icons?i=php,laravel,mysql,dotnet,cs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=react,aspnet,php,laravel,mysql,SQL,dotnet,cs)](https://skillicons.dev)
 
 ### 🛠 Herramientas & AI
 
