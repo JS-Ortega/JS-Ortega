@@ -24,7 +24,7 @@
 
 ### 🛠 Herramientas & AI
 
-[![Tools](https://skillicons.dev/icons?i=git,github,notion,docker,gmail,npm,postman,powershell,vscode,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,notion,docker,gmail,npm,postman,powershell,vscode)](https://skillicons.dev)
 
 `Claude AI` &nbsp; `SQL` &nbsp; `MySQL` &nbsp; `Antigravity`
 
