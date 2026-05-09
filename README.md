@@ -1,18 +1,66 @@
-<img width="256" height="256" alt="Bootstrap" src="https://github.com/user-attachments/assets/ea6fe23d-563f-4316-8a89-70346e14d284" />
-## Hi there 👋
 
-<!--
-**JS-Ortega/JS-Ortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vista previa del GitHub Profile README
+👁 Vista Previa
+</> Markdown
+Reemplaza JS-Ortega y Josue Ortega
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:023e8a&height=200&section=header&text=Frontend%20Developer&fontSize=50&fontAlignY=40&desc=React%20%C2%B7%20TypeScript%20%C2%B7%20Photography&descAlignY=60&fontColor=ffffff" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="url(#paint0_linear_158_100)" rx="60"/><g filter="url(#filter0_d_158_100)"><path fill="url(#paint1_linear_158_100)" d="M131.97 196.157C161.646 196.157 179.529 181.626 179.529 157.66C179.529 139.543 166.77 126.428 147.823 124.351V123.597C161.743 121.332 172.666 108.405 172.666 93.9689C172.666 73.3992 156.427 60 131.68 60H76V196.157H131.97ZM97.6533 77.2674H126.46C142.12 77.2674 151.013 84.2497 151.013 96.8935C151.013 110.387 140.67 117.935 121.917 117.935H97.6533V77.2674V77.2674ZM97.6533 178.89V134.071H126.266C146.76 134.071 157.393 141.619 157.393 156.339C157.393 171.058 147.05 178.89 127.523 178.89H97.6533V178.89Z"/><path stroke="#fff" stroke-width="2" d="M131.97 196.157C161.646 196.157 179.529 181.626 179.529 157.66C179.529 139.543 166.77 126.428 147.823 124.351V123.597C161.743 121.332 172.666 108.405 172.666 93.9689C172.666 73.3992 156.427 60 131.68 60H76V196.157H131.97ZM97.6533 77.2674H126.46C142.12 77.2674 151.013 84.2497 151.013 96.8935C151.013 110.387 140.67 117.935 121.917 117.935H97.6533V77.2674V77.2674ZM97.6533 178.89V134.071H126.266C146.76 134.071 157.393 141.619 157.393 156.339C157.393 171.058 147.05 178.89 127.523 178.89H97.6533V178.89Z"/></g><defs><filter id="filter0_d_158_100" width="137.529" height="170.157" x="59" y="47" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feColorMatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/><feOffset dy="4"/><feGaussianBlur stdDeviation="8"/><feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/><feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_158_100"/><feBlend in="SourceGraphic" in2="effect1_dropShadow_158_100" mode="normal" result="shape"/></filter><linearGradient id="paint0_linear_158_100" x1="0" x2="256" y1="0" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#9013FE"/><stop offset="1" stop-color="#6B11F4"/></linearGradient><linearGradient id="paint1_linear_158_100" x1="85.793" x2="148.541" y1="68.962" y2="175.084" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="1" stop-color="#F1E5FC"/></linearGradient></defs></svg>
+# Hi, I'm **[Josue Ortega]** 👋
+
+### Frontend Developer · Fotógrafo · Creador Visual
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=45&lines=React+%26+React+Native+Developer;TypeScript+%26+JavaScript+Enthusiast;Frontend+First+🚀;Photographer+%26+Visual+Creator)](https://git.io/typing-svg)
+
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap)](https://skillicons.dev)
+
+### 📱 Mobile & Backend
+
+> React Native &nbsp;·&nbsp; ASP.NET C# &nbsp;·&nbsp; Laravel PHP &nbsp;·&nbsp; MySQL
+
+[![Backend](https://skillicons.dev/icons?i=php,laravel,mysql,dotnet,cs)](https://skillicons.dev)
+
+### 🛠 Herramientas & AI
+
+[![Tools](https://skillicons.dev/icons?i=ps,git,github,notion)](https://skillicons.dev)
+
+`Claude AI` &nbsp; `SQL` &nbsp; `MySQL` &nbsp; `Antigravity`
+
+---
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+---
+
+## 📸 Beyond the Code
+
+> *"El código es lógica. La fotografía es emoción. Yo hago las dos."*
+
+&nbsp;
+
+**Photoshop** &nbsp;·&nbsp; **Lightroom** &nbsp;·&nbsp; **Filmora** &nbsp;·&nbsp; **Notion**
+
+---
+
+## 🌐 Conectemos
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/js.ortega.28/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,100:00b4d8&height=100&section=footer" width="100%" />
+
+</div>
