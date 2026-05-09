@@ -14,17 +14,17 @@
 
 ### 🎨 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,figma,jquery,materialui,vite,vitest)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,figma,jquery,materialui,vite,vitest, redux)](https://skillicons.dev)
 
 ### 📱 Mobile & Backend
 
 > 
 
-[![Backend](https://skillicons.dev/icons?i=react,dotnet,php,laravel,mysql,SQL,cs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=react,dotnet,php,laravel,mysql,nodejs,cs)](https://skillicons.dev)
 
 ### 🛠 Herramientas & AI
 
-[![Tools](https://skillicons.dev/icons?i=ps,git,github,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,notion,docker,gmail,npm,postman,powershell,vscode,vscode)](https://skillicons.dev)
 
 `Claude AI` &nbsp; `SQL` &nbsp; `MySQL` &nbsp; `Antigravity`
 
