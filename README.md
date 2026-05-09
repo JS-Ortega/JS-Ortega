@@ -22,21 +22,12 @@
 
 [![Backend](https://skillicons.dev/icons?i=react,dotnet,php,laravel,mysql,nodejs,cs)](https://skillicons.dev)
 
-### 🛠 Herramientas & AI
+### 🛠 Herramientas
 
 [![Tools](https://skillicons.dev/icons?i=git,github,notion,docker,gmail,npm,postman,powershell,vscode)](https://skillicons.dev)
 
-`Claude AI` &nbsp; `SQL` &nbsp; `MySQL` &nbsp; `Antigravity`
-
----
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### 🛠 Otros
+`Claude AI` &nbsp; `SQL` &nbsp; `MySQL` &nbsp; `Antigravity`  &nbsp; `Claude AI`
 
 ---
 
