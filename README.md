@@ -1,8 +1,3 @@
-
-Vista previa del GitHub Profile README
-👁 Vista Previa
-</> Markdown
-Reemplaza JS-Ortega y Josue Ortega
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:023e8a&height=200&section=header&text=Frontend%20Developer&fontSize=50&fontAlignY=40&desc=React%20%C2%B7%20TypeScript%20%C2%B7%20Photography&descAlignY=60&fontColor=ffffff" width="100%" />
