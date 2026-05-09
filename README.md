@@ -14,7 +14,7 @@
 
 ### 🎨 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,figma,jquery,materialui,vite,vitest, redux)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,figma,mui,vite,redux)](https://skillicons.dev)
 
 ### 📱 Mobile & Backend
 
